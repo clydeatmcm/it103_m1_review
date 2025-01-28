@@ -1,4 +1,4 @@
-# Lesson 1: HTML Review Quesions
+# Lesson 1: HTML Review Questions
 ### Question 1:  
 **Scenario**: You are tasked with creating a table that includes both a header and footer, as well as some descriptive text for screen readers. Which HTML structure is correct for achieving this?  
 
