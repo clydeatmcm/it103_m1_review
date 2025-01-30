@@ -1,4 +1,4 @@
-# Lesson 1: CSS Review Question
+# Lesson 2: CSS Review Question
 ### **Question 1: Specificity Challenge**  
 You have the following CSS rules applied to an `<h1>` element:  
 
